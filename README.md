@@ -1,2 +1,2 @@
 # My first git project
-# It' a new commit.
+# It's a new commit.
